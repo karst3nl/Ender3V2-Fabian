@@ -1,6 +1,6 @@
 # Ender3V2-Fabian
 
-The complete printer is build with various different mods and self desigend parts.
+The complete printer is build with various different mods.
 
 
 

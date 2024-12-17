@@ -1,4 +1,4 @@
-# Ender3V2-Fabian
+# Ender3V2-Mods
 
 The complete printer is build with various different mods.
 
